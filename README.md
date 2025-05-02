@@ -58,7 +58,7 @@ loja_4.csv
 5. Execute o projeto:
 
 ```bash
-python src/main.py
+python main.py
 ```
 
 6. Os gráficos serão mostrados na tela e salvos na pasta `imagens/`, incluindo o mapa em `mapa_vendas.html`.
